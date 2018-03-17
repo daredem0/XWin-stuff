@@ -1,0 +1,1 @@
+Credits for makefile, settings, GDPC library and GDPTools library to Dr. Christian Senger.
